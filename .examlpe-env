@@ -1,0 +1,4 @@
+DBNAME="travel_website"
+DBHOST="localhost"
+DBUSER="root"
+DBPASS=""
